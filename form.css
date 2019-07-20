@@ -1,0 +1,14 @@
+section{
+
+     margin: 1em;
+}
+h6{
+
+     text-align: center;
+}
+form{
+     margin: 0px auto;
+     width: 45%;
+     margin-top: 3em;
+     background-color: rgb(172, 184, 149);
+}
